@@ -1,0 +1,1 @@
+select * from {{ ref('core_fct_rent_item') }}

@@ -1,0 +1,1 @@
+select * from {{ ref('core_dim_customer') }}

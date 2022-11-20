@@ -1,0 +1,4 @@
+book_id,isbn,title,edition,author,publisher,genre_code
+1,1234,data modeling,1,hoberman,springer,it
+2,5678,data warehousing,5,kimball,packt,it
+3,9999,sql,3,meier,orreily,it

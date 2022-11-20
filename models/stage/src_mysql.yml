@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  -
+    name: mysql
+    schema: library_src
+    tables:
+      - 
+        name: src_book
+      - 
+        name: src_book_copy
+      - 
+        name: src_customer
+      - 
+        name: src_genre
+      - 
+        name: src_library
+      - 
+        name: src_rent
+      - 
+        name: src_rent_item

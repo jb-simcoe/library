@@ -1,0 +1,10 @@
+copy_id,book_id,library_id,acquisition_date,condition
+1,1,1,20190809,slightly used
+2,2,1,20191009,slightly used
+3,3,2,20191109,slightly used
+4,1,2,20190810,slightly used
+5,2,1,20190812,used
+6,3,2,20190813,used
+7,2,2,20190814,mint
+8,2,2,20190815,mint
+9,3,1,20190815,mint
